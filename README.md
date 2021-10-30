@@ -9,11 +9,11 @@ In this collection, I will upload the things I make with React Native...
 
 
 # Work Samples #1
-- Github Link: https://dribbble.com/shots/3435714-Salon-category-discovery-exploration
+- Github Link: https://github.com/samanabbasi71/react-native-travlr
 - Dribbble Link: https://dribbble.com/shots/10933565-travlr
 
 # Work Samples #2
-- Github Link: https://dribbble.com/shots/3435714-Salon-category-discovery-exploration
+- Github Link: https://github.com/samanabbasi71/react-native-Wrist-Watch-App-Concept
 - Dribbble Link: https://dribbble.com/shots/7046889-Wrist-Watch-App-Concept
 
 ---
