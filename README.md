@@ -5,7 +5,7 @@ In this collection, I will upload the things I make with React Native...
 ### Previews
 |||
 |--|--|
-|![Tutorial #1](https://user-images.githubusercontent.com/2805320/93872634-ba775000-fcd0-11ea-9228-87b30cb98c40.gif)|![Tutorial #2](https://user-images.githubusercontent.com/2805320/93872653-c06d3100-fcd0-11ea-95fa-18ca73ae866b.gif)
+|![Tutorial #1](https://raw.githubusercontent.com/samanabbasi71/react-native-collections/main/Simulator%20Screen%20Recording%20-%20iPhone%2012%20-%202021-10-30%20at%2015.55.38.gif)|![Tutorial #2](https://user-images.githubusercontent.com/2805320/93872653-c06d3100-fcd0-11ea-95fa-18ca73ae866b.gif)
 
 
 # Work Samples #1
